@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "linked_list.h": "c",
+        "stdio.h": "c",
+        "locale.h": "c",
+        "string.h": "c",
+        "array_list.h": "c",
+        "stddef.h": "c",
+        "time.h": "c",
+        "math.h": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "stack.h": "c",
+        "limits.h": "c",
+        "c_string.h": "c",
+        "priority_queue.h": "c",
+        "initializer_list": "c"
+    }
+}
